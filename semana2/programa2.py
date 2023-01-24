@@ -1,5 +1,5 @@
 """
-    programa1
+    programa2
     Nombre:Brenda ABC
     Fecha: 24/01/2023
     Descripcion:
