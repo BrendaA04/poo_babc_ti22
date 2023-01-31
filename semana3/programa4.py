@@ -1,3 +1,10 @@
+    programa4
+    Nombre:Brenda ABC
+    Fecha: 30/01/2023
+    Descripcion:
+    CAMBIAR TIPO DE DATO CON int 
+ 
+
 numero1 = input("Numero1: ")
 numero2 = 10
 
