@@ -3,7 +3,7 @@
     Nombre:Brenda ABC
     Fecha: 30/01/2023
     Descripcion:
-    CAMBIAR TIPO DE DATO CON int 
+    CAMBIAR TIPO DE DATO CON int DE OPERACIONES BASICAS 
 """ 
 
 numero1 = input("Numero1: ")
