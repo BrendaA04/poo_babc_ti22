@@ -9,3 +9,5 @@ Repositorios con los ejercicios de la materia de Programación Orientada  a Obje
 |3|programa2.py|Realizamos errores de sintaxis para conocer los errores mas comunes|
 |4|programa3.py|Operaciones mediante orden de llaves|
 |5|programa4.py|cambiar tipos de datos por int|
+|6|programa5.py|perimetro y area de un triangulo|
+|7|programa6.py|perimetro y area de un circulo y un cuadrado|
