@@ -11,3 +11,4 @@ Repositorios con los ejercicios de la materia de Programación Orientada  a Obje
 |5|programa4.py|cambiar tipos de datos por int|
 |6|programa5.py|perimetro y area de un triangulo|
 |7|programa6.py|perimetro y area de un circulo y un cuadrado|
+|8|programa7.py|Comparar 2 numeros enteros e imprimir el numero mayor|
