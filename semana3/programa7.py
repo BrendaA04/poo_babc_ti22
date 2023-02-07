@@ -14,5 +14,7 @@ numero_2 = int(input("INGRESE EL VALOR DE EL SEGUNDO NÚMERO : "))
 #SE HACE LA COMPARACION DE LOS NUMEROS INGRESADOS Y TE DARA EL VALOR DE QUE NUMERO ES MAYOR 
 if numero_1 > numero_2:  
     print(numero_1)
-else:
+elif numero_2 > numero_1:
     print(numero_2)
+else:
+    print(None)
