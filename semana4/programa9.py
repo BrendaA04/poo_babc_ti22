@@ -1,3 +1,12 @@
+"""
+    programa9
+    Nombre:Brenda ABC
+    Fecha: 08/02/2023
+    Descripcion:
+    Programa que por medio de def definimos mayor y None(iguales)
+    
+"""
+
 def mayor(numero1,numero2):
     if numero1 > numero2:
         print(numero1)
