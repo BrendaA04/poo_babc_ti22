@@ -12,3 +12,5 @@ Repositorios con los ejercicios de la materia de Programación Orientada  a Obje
 |6|programa5.py|perimetro y area de un triangulo|
 |7|programa6.py|perimetro y area de un circulo y un cuadrado|
 |8|programa7.py|Comparar 2 numeros enteros e imprimir el numero mayor|
+|9|programa8.py|Once formas diferentes de usu de if,elif,else|
+|10|programa9.py|Uso de def para mayor independiente del valor asignado|
