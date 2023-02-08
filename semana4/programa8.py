@@ -6,10 +6,12 @@
     PROGRAMA DE 11 FORMAS DIFERENTES PARA USAR IF
     
 """
-
-n1 = int(input("N1: "))
-n2 = int(input("N2: "))
+print()
+n1 = int(input("Inresa N1: "))
+n2 = int(input("Ingresa N2: "))
+print()
 #PROGRAMA DE 11 FORMAS DIFERENTES PARA USAR IF
+print("Forma numero 1")
 if n1 > n2:
     print(n1)
 if n2 > n1:
@@ -41,7 +43,7 @@ else:
 print( "Forma numero 4" )
 
 if n1 < n2:
-    print(n1)
+    print(n2)
 elif n2 < n1:
     print(n1)
 else:
@@ -52,7 +54,7 @@ else:
 print( "Forma numero 5" )
 
 if n2 < n1:
-    print(n2)
+    print(n1)
 if n1 < n2:
     print(n2)
 if n1 == n2:
@@ -100,3 +102,22 @@ elif n1 > n2:
 else:
     print(n2)
 
+##USO DE IF Y ELIF Y ELSE
+print( "Forma numero 10" )
+
+if n1 == n2:
+    print(None)
+elif n1 < n2:
+     print(n2)
+else:
+    print(n1)
+
+##USO DE IF Y ELIF Y ELSE
+print( "Forma numero 11" )
+
+if n1 == n2:
+    print(None)
+elif n1 >= n2:
+    print(n1)
+else:
+    print(n2)
