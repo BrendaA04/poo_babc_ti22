@@ -8,29 +8,29 @@
 """
 PI = 3.1416
 print()
-lado_1 = int(input("INGRESE LA MEDIDA DEL PRIMER LADO : "))
+lado_1 = int(input("INGRESE LA MEDIDA DEL PRIMER LADO : "))## esperar que el usuario introduzca un dato almacenar este dato en una variable.
 
-perimetro_cuadrado = lado_1*4
+perimetro_cuadrado = lado_1*4#se establece la operacion que se va a realizar 
 print()
-print ("El perímetro de un cuadrado con la medida de sus lados: ",lado_1, ("es: ") , perimetro_cuadrado)
+print ("El perímetro de un cuadrado con la medida de sus lados: ",lado_1, ("es: ") , perimetro_cuadrado)#una linea de texto con resultado de la operacion 
 
-area_cuadrado = lado_1*lado_1
+area_cuadrado = lado_1*lado_1#se integra la operacion que se va a realizar 
 print()
-print ("El área de un cuadrado con la medida de sus lados: ",lado_1, ("es: ") , area_cuadrado)
+print ("El área de un cuadrado con la medida de sus lados: ",lado_1, ("es: ") , area_cuadrado)#imprime una linea de texto con el resultado de la operacion
 print()
 ##perimetro y área de un circulo
 
-radio_circulo = int (input("ingresa la medida de la circunferencia de el círculo: "))
+radio_circulo = int (input("ingresa la medida de la circunferencia de el círculo: ")) #pide al usuario que integre los datos solicitados 
 ##ÁREA DE DEL CIRCULO
-area_circulo = (PI*radio_circulo**2)
+area_circulo = (PI*radio_circulo**2)#se integra la formula a trabajar
 print()
-print ("El área de un círculo con un radio de: ",radio_circulo, ("es: ") , area_circulo)
+print ("El área de un círculo con un radio de: ",radio_circulo, ("es: ") , area_circulo)#imprime una linea de texto con el resultado de la operacion
 ##ESPACIO
 print()
 ##PERÍMETRO DEL CIRCULO
-perimetro_circulo = (2*PI*radio_circulo)
+perimetro_circulo = (2*PI*radio_circulo)#pide al usuario que integre los datos solicitados 
 print()
-print("El perímetro de un círculo con un radio de",radio_circulo,("es: "),perimetro_circulo)
+print("El perímetro de un círculo con un radio de",radio_circulo,("es: "),perimetro_circulo)#imprime una linea de texto con el resultado de la operacion
 print()
-print("Gracias por utilizar este programa")
+print("Gracias por utilizar este programa")#linea que imprime un texto al finalizarlo 
 print()
