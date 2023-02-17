@@ -6,7 +6,7 @@
     PERÍMETRO Y ÁREA DE UN CIRCULO Y UN CUADRADO
     
 """
-PI = 3.1416
+PI = 3.1416# SE ESTABLECIO EL VALOR DE UNA VARIABLE QUE SE OCUPA PARA REALIZAR VARIAS OPERACIONES
 print()
 lado_1 = int(input("INGRESE LA MEDIDA DEL PRIMER LADO : "))## esperar que el usuario introduzca un dato almacenar este dato en una variable.
 
