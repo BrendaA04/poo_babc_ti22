@@ -15,9 +15,9 @@ def mayor(numero1,numero2): #constructor de la clase profesor
     else: #Ejecutan una o varias sentencias de manera condicional
         print(None) #imprime el resultado
 
-mayor (3,2) #se 
-mayor (2,3)
-mayor (3,3)
+mayor (3,2) #de esos dos numero establecidos se imprime cual es el numero mayor 
+mayor (2,3) #de esos dos numero establecidos se imprime cual es el numero mayor 
+mayor (3,3) #de esos dos numero establecidos se imprime None porque cuando son iguales establecimos que imprimiera None 
 
 ##programa que por medio de def definimos mayor
 
