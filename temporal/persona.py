@@ -1,5 +1,5 @@
 """
-    alumno.py
+    persona.py
     Nombre:Brenda ABC
     Fecha: 13/02/2023
     Descripcion:

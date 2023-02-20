@@ -1,9 +1,10 @@
 """
-    alumno.py
+    profesor.py
     Nombre:Brenda ABC
     Fecha: 13/02/2023
     Descripcion:
-    Crear una clase alumno para crear objetos con atributos 
+    Importa la clse persona del archovo persona.py y se crea la clase profesor que hereda de la clase persona, llamando a un contructor de clase persona 
+
     
 """
 
