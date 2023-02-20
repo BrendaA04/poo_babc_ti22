@@ -1,3 +1,11 @@
+"""
+    alumno.py
+    Nombre:Brenda ABC
+    Fecha: 13/02/2023
+    Descripcion:
+    Crear una clase alumno para crear objetos con atributos 
+    
+"""
 from persona  import Persona #importa la clase persona que se encuentra en el archivo persona.py
 
 class alumno (Persona): # crea la clase alumno que se esta heredando de la clase persona

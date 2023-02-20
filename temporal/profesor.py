@@ -1,3 +1,12 @@
+"""
+    alumno.py
+    Nombre:Brenda ABC
+    Fecha: 13/02/2023
+    Descripcion:
+    Crear una clase alumno para crear objetos con atributos 
+    
+"""
+
 from persona import Persona #importa la clse persona del archovo persona.py
 
 class profesor (Persona):#crea la clase profesor que hereda de la clase persona

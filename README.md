@@ -14,3 +14,9 @@ Repositorios con los ejercicios de la materia de Programación Orientada  a Obje
 |8|programa7.py|Comparar 2 numeros enteros e imprimir el numero mayor|
 |9|programa8.py|Once formas diferentes de usu de if,elif,else|
 |10|programa9.py|Uso de def para mayor independiente del valor asignado|
+|11|alumno.py|Crear una clase alumno para crear objetos con atributos |
+|12|herencia.py| Crear una clase  persona y una clase de alumno que hereda los atributos y metodos de la clase persona |
+|13|persona.py|Crear una clase persona para crear dos variables o atributos que obtendran valor con la funcion set y lo devolvera la funcion get |
+|14|personas.py|Crear una clase llamada persona que se convertira en la clase padre de la clase alumno, prfesor, coordinador |
+
+    
