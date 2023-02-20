@@ -20,6 +20,7 @@ Repositorios con los ejercicios de la materia de Programación Orientada  a Obje
 |14|personas.py|Crear una clase llamada persona que se convertira en la clase padre de la clase alumno, prfesor, coordinador |
 |15|alumno.py|se importa de el programa persona que se encuentra en persona.py y se crea una clase que se esta heredando de la clase de persona  |
 |16|persona.py|crea la clase persona. esta es la clase principal que se esta importando de archivo archivo|
+|17|profesor.py|
 
 
     
