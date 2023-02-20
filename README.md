@@ -18,5 +18,6 @@ Repositorios con los ejercicios de la materia de Programación Orientada  a Obje
 |12|herencia.py| Crear una clase  persona y una clase de alumno que hereda los atributos y metodos de la clase persona |
 |13|persona.py|Crear una clase persona para crear dos variables o atributos que obtendran valor con la funcion set y lo devolvera la funcion get |
 |14|personas.py|Crear una clase llamada persona que se convertira en la clase padre de la clase alumno, prfesor, coordinador |
+|14|alumno.py|se importa de el programa persona que se encuentra en persona.py y se crea una clase que se esta heredando de la clase de persona  |
 
     
