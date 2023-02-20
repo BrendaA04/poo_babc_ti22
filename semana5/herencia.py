@@ -1,5 +1,5 @@
 """
-    programaPersona
+    herencia.py
     Nombre:Brenda ABC
     Fecha: 14/02/2023
     Descripcion:

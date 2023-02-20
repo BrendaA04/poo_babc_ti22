@@ -1,12 +1,11 @@
 """
-    programaAlumno
+    alumno.py
     Nombre:Brenda ABC
     Fecha: 13/02/2023
     Descripcion:
     Crear una clase alumno para crear objetos con atributos 
     
 """
-
 class Alumno: #crea una clase 
     __nombre = None #se declara __nombre como una variable privada con un valor None 
     __matricula = None #se declara __matricula como una variable privada con un valor None 
