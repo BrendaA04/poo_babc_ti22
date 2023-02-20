@@ -3,7 +3,7 @@
     Nombre:Brenda ABC
     Fecha: 13/02/2023
     Descripcion:
-    Crear una clase alumno para crear objetos con atributos 
+    se importa de el programa persona que se encuentra en persona.py y se crea una clase que se esta heredando de la clase de persona  
     
 """
 from persona  import Persona #importa la clase persona que se encuentra en el archivo persona.py
