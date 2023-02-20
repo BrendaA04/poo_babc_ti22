@@ -21,4 +21,5 @@ Repositorios con los ejercicios de la materia de Programación Orientada  a Obje
 |15|alumno.py|se importa de el programa persona que se encuentra en persona.py y se crea una clase que se esta heredando de la clase de persona  |
 |16|persona.py|crea la clase persona. esta es la clase principal que se esta importando de archivo archivo|
 
+
     
